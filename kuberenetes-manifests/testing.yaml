@@ -9,6 +9,7 @@ spec:
   - "<hostname>"
   - "newHost.com"
   - "newHost.com"
+  - "newHost.com1713766150216"
   gateways:
   - "apiwiz-system/apiwiz-gateway"
   http:
