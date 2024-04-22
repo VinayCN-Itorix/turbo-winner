@@ -16,6 +16,7 @@ spec:
   - "newHost1713777829345"
   - "newHost1713782925498"
   - "newHost1713789702114"
+  - "newHost1713789918623"
   gateways:
   - "apiwiz-system/apiwiz-gateway"
   http:
